@@ -1,4 +1,4 @@
-const defaultValue = `- made with notepad.iksos.com
+const defaultValue = `- made with xOS Notepad
  
 `;
 window.addEventListener("load", () => {
